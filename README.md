@@ -5,7 +5,7 @@ This repository contains static sites developed with [Hugo](https://gohugo.io/).
 ...
 
 ## Documentation
-* [Quickstart] (https://gohugo.io/getting-started/quick-start/)
-* [Github] (https://github.com/gohugoio/hugo)
-* [Platzi] (https://platzi.com/blog/hugo-golang-platzi/)
-* [Kingsta] (https://kinsta.com/blog/hugo-static-site/)
+* [Hugo Quickstart](https://gohugo.io/getting-started/quick-start/)
+* [Official Hugo Github](https://github.com/gohugoio/hugo)
+* [Platzi BLog](https://platzi.com/blog/hugo-golang-platzi/)
+* [Kingsta Hugo BLog](https://kinsta.com/blog/hugo-static-site/)
