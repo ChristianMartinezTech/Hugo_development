@@ -1,7 +1,15 @@
 # Hugo_development
 This repository contains static sites developed with [Hugo](https://gohugo.io/).
 
-# Content
+## About Hugo
+Hugo is a general-purpose static site generator written in Go.
+
+## Installation
+```bash
+sudo apt-get install hugo
+```
+
+## Content
 ...
 
 ## Documentation
